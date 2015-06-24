@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">College Calendar</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="cadastrar_avaliacao_trabalho">Cadastrar Avaliação/Trabalho</string>
+    <string name="cadastrar_dev_livro">Cadastrar Devolução de Livro</string>
+	<string name="vis_livro">Visualizar Livros</string>
+	<string name="vis_aval_trab">Visualizar Avaliações e Trabalhos</string>
+</resources>
