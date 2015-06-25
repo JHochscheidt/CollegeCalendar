@@ -1,5 +1,9 @@
 package com.example.collegecalendar;
 
-public class CadastroAvaliacaoTrabalho {
+import android.app.Activity;
 
+public class CadastroAvaliacaoTrabalho extends Activity{
+
+	
+	
 }
